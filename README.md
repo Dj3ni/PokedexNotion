@@ -5,6 +5,11 @@ I followed a tutorial as a first contact with Api's
 I was part of a boardgame association and we worked a lot with Notion for..almost everything. We had the project to try and automate the content management of the website for people with no code knowledge. I was at the begining of my training program to become a web developer. I decided to follow the tutorial to have a first contact with Api's and how to pass data with Notion. 
 
 ## Ressources
-Tutorial followed:
-Techs: 
+- Tutorial followed: https://www.youtube.com/watch?v=ec5m6t77eYM
+- developped with https://glitch.com/
+- Api: https://pokeapi.co/
 - 
+Techs: 
+- Notion
+- NodeJs
+  
