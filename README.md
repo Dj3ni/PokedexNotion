@@ -1,4 +1,4 @@
-# PokedexNotion
+# Pokedex in Notion
 I followed a tutorial as a first contact with Api's
 
 ## Why with Notion?
@@ -6,9 +6,9 @@ I was part of a boardgame association and we worked a lot with Notion for..almos
 
 ## Ressources
 - Tutorial followed: https://www.youtube.com/watch?v=ec5m6t77eYM
-- developped with https://glitch.com/
+- Developped with https://glitch.com/
 - Api: https://pokeapi.co/
-- 
+  
 Techs: 
 - Notion
 - NodeJs
